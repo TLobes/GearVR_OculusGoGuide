@@ -10,6 +10,6 @@ This guide will aim to:
 - Integrate the (current && working) Oculus SDK
 - Deploy to an Android device using the Gear VR
 - ~~Deploy to the Oculus Go~~ **Need to buy an Oculus Go D:**
-- Develop an app in Unity that shows how to use the hardware's funcationality
+- Develop an app in Unity that shows how to use the hardware's functionality
 
 I invite anyone to submit issues or make PRs to keep things correct and up to date for the community's benefit. I'm sure there will be a lot of things I have missed or could do better.
